@@ -1,0 +1,59 @@
+[
+  {
+    "CourseNumber": 1001,
+    "Title": "Webbutveckling med C#",
+    "DurationWeek": 6,
+    "Startdate": "2026-01-01",
+    "Enddate": "2026-02-14",
+    "IsDistanceEducation": true
+  },
+  {
+    "CourseNumber": 1004,
+    "Title": "matteB",
+    "DurationWeek": 5,
+    "Startdate": "2026-01-01",
+    "Enddate": "2026-02-07",
+    "IsDistanceEducation": true
+  },
+  {
+    "CourseNumber": 1002,
+    "Title": "Databaser och SQL",
+    "DurationWeek": 8,
+    "Startdate": "2027-01-11",
+    "Enddate": "2027-03-05",
+    "IsDistanceEducation": false
+  },
+  {
+    "CourseNumber": 1003,
+    "Title": "Systemdesign",
+    "DurationWeek": 10,
+    "Startdate": "2027-02-01",
+    "Enddate": "2027-04-09",
+    "IsDistanceEducation": true
+  },
+  {
+    "CourseNumber": 1005,
+    "Title": "Mobilutveckling med .NET MAUI",
+    "DurationWeek": 8,
+    "Startdate": "2027-03-01",
+    "Enddate": "2027-04-23",
+    "IsDistanceEducation": false
+  },
+  {
+    "CourseNumber": 1006,
+    "Title": "Frontend med JavaScript",
+    "DurationWeek": 6,
+    "Startdate": "2027-03-15",
+    "Enddate": "2027-04-23",
+    "IsDistanceEducation": true
+  },
+  {
+    "CourseNumber": 1007,
+    "Title": "Agil projektmetodik och Git",
+    "DurationWeek": 4,
+    "Startdate": "2027-04-12",
+    "Enddate": "2027-05-07",
+    "IsDistanceEducation": true
+  }
+
+]
